@@ -11,4 +11,4 @@
 
 ## Folder structure:
 
-![This is a alt text.](/src/images/flowchart.png"This is a sample image.")
+![This is a alt text.](/src/images/flowchart.png "This is a sample image.")
